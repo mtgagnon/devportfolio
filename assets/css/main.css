@@ -197,10 +197,10 @@ input, select, textarea {
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -moz-linear-gradient(to right, #2d2fa5, #3b89b4);
+				background-image: -webkit-linear-gradient(to right, #2d2fa5, #3b89b4);
+				background-image: -ms-linear-gradient(to right, #2d2fa5, #3b89b4);
+				background-image: linear-gradient(to right, #2d2fa5, #3b89b4);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3236,31 +3236,31 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #261c3e;
+			background-color: #151b57;
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #1b4793;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #2163b9;
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #506eb5;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: #3c2baa;
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #0f90ec;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #115f80;
 		}
 
 		.wrapper.fullscreen {
