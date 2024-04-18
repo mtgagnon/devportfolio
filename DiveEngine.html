@@ -57,7 +57,8 @@
 								<p>
 									After creating the engine I wanted to add new ways of interacting with my game engine. Something pretty simple to start was to add controller support
 									using SDL. After getting it to work for one controller I added it for multiple controllers so that you can create a game where multiple players can play via controllers 
-									at the same time. 
+									at the same time. I also earlier noted that there was stick drift or a dead zone and I fixed that by limiting how small an input could be, it doesn't impact the overall movement feel
+									however makes it so that there is no "stick drift" or dead zones where the player can't sit still after moving.
 								</p>
 
 								<iframe width="560" height="315" src="https://www.youtube.com/embed/MFBwnJE_KEw" frameborder="0" allowfullscreen></iframe>
